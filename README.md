@@ -11,9 +11,10 @@
 ##### - link worksheets, etc.
 ------
 ## Visualizations
-#### This visualization contained here answers questions that includes
+#### This visualization answered questions that included;
 ##### 1. The driver with the highest mile coverage.
 ##### 2. The car make with the highest number of car models.
 ##### 3. The car models with the highest and lowest mile coverage.
 ##### 4. The year with the highest number of car manufactured. 
 ##### 5. The car make with the highest number of drivers. 
+
